@@ -1,2 +1,2 @@
 
-curl -sLkO https://github.com/hazeem11/hh/blob/main/nomachine-mate.sh ; bash nomachineMATE
+curl -sLkO https://raw.githubusercontent.com/hazeem11/hh/refs/heads/main/nomachine-mate.sh ; bash nomachineMATE
